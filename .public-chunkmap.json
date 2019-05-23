@@ -1,0 +1,58 @@
+{
+    ".entrypoints": {
+        "critical": [
+            "includes/extract.5.cda71da4a3d208b8a0c4.css",
+            "includes/core.cda71da4a3d208b8a0c4.js"
+        ],
+        "specialEntry": [
+            "includes/core.cfa9fef8076c1f698a7b.js"
+        ],
+        "client": [
+            "includes/chunk.f5268d576833194e6001.js",
+            "includes/core.e58b923c3b063b947f7a.js"
+        ],
+        "__KOOT__CLIENT__RUN__FIRST__": [
+            "includes/chunk.f5268d576833194e6001.js",
+            "includes/core.290209ec7e3413832f0d.js"
+        ]
+    },
+    ".files": {
+        "commons.js": "includes/chunk.f5268d576833194e6001.js",
+        "Page: Home.js": "includes/chunk.b153b9ef4f33790464c2.js",
+        "Page: Static Assets.js": "includes/chunk.983a5934211e4993b655.js",
+        "__KOOT__CLIENT__RUN__FIRST__.js": "includes/core.290209ec7e3413832f0d.js",
+        "client.js": "includes/core.e58b923c3b063b947f7a.js",
+        "critical.css": "includes/extract.5.cda71da4a3d208b8a0c4.css",
+        "critical.js": "includes/core.cda71da4a3d208b8a0c4.js",
+        "specialEntry.js": "includes/core.cfa9fef8076c1f698a7b.js",
+        "__KOOT__EXTRACT__CSS__.css": "includes/extract.all.b5c7e0bc65331c3bb0ac55783d78d4bd.css"
+    },
+    "commons": [
+        "includes/chunk.f5268d576833194e6001.js"
+    ],
+    "Page: Home": [
+        "includes/chunk.b153b9ef4f33790464c2.js"
+    ],
+    "Page: Static Assets": [
+        "includes/chunk.983a5934211e4993b655.js"
+    ],
+    "__KOOT__CLIENT__RUN__FIRST__": [
+        "includes/core.290209ec7e3413832f0d.js"
+    ],
+    "client": [
+        "includes/core.e58b923c3b063b947f7a.js"
+    ],
+    "critical": [
+        "includes/extract.5.cda71da4a3d208b8a0c4.css",
+        "includes/core.cda71da4a3d208b8a0c4.js"
+    ],
+    "specialEntry": [
+        "includes/core.cfa9fef8076c1f698a7b.js"
+    ],
+    "__KOOT__EXTRACT__CSS__": [
+        "includes/extract.all.b5c7e0bc65331c3bb0ac55783d78d4bd.css"
+    ],
+    "service-worker": [
+        "public/service-worker.js"
+    ]
+}
